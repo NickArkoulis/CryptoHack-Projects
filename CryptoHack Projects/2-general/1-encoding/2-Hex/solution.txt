@@ -1,0 +1,2 @@
+γράφοντας το πρόγραμμα και τρέχοντας το στο cmd βγαίνει το flag: crypto{You_will_be_working_with_hex_strings_a_lot}
+αποκρυπτογραφούμε το hex και παίρνουμε τη σημαία.
